@@ -1,3 +1,10 @@
+## kennethjor/gnip4j
+This master branch contains the original master from zauberlabs including the following pull requests:
+
+* [#23: Powertrackreplay](https://github.com/zauberlabs/gnip4j/pull/23)
+* [#26: Geometry, Size, and Sizes implements Serializable](https://github.com/zauberlabs/gnip4j/pull/26)
+* [#27: Added setters to Gnip](https://github.com/zauberlabs/gnip4j/pull/27)
+
 ## What is gnip4j?
 
 Gnip4j is an Open Source (ASFL 2.0) library to access and process Activities (tweets)
